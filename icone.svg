@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#6a1b9a"/>
+  <!-- Toldo da lojinha (inspirado na logo da WN) -->
+  <path d="M96 176h320l-28 52a34 34 0 0 1-60 0 34 34 0 0 1-60 0 34 34 0 0 1-60 0 34 34 0 0 1-60 0 34 34 0 0 1-60 0z" fill="#ffffff" opacity=".95"/>
+  <path d="M152 176l24-56h160l24 56" fill="none" stroke="#ffffff" stroke-width="20" stroke-linejoin="round"/>
+  <!-- Coração rosa -->
+  <path d="M256 412c-58-42-92-74-92-112a46 46 0 0 1 92-14 46 46 0 0 1 92 14c0 38-34 70-92 112z" fill="#f43fb0"/>
+</svg>

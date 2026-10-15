@@ -1,0 +1,15 @@
+{
+  "name": "WN Personalizados — Consulta",
+  "short_name": "WN Consulta",
+  "description": "Consulta dos indicadores, pedidos, vendas e clientes da WN Personalizados.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6a1b9a",
+  "theme_color": "#6a1b9a",
+  "icons": [
+    { "src": "./icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
